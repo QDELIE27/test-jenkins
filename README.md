@@ -1,2 +1,2 @@
 # test-jenkins
-Snadobox for playing with Jenkinfiles
+Sandbox for playing with Jenkins configuration
